@@ -7,4 +7,4 @@ SeleniumByGUISetup.exe is the installation file!
 
 Current file version 0.0.1.3 New Update
 
-Official web page http://softwarefortesting.com/
+Official web page https://softwarefortesting.com/
