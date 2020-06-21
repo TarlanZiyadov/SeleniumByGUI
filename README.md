@@ -6,4 +6,5 @@ SeleniumByGUI is gives possibility for fast boundry tests with integrated send k
 SeleniumByGUISetup.exe is the installation file!
 
 Current file version 0.0.1.3 New Update
+
 Official web page http://softwarefortesting.com/
